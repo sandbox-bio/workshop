@@ -8,4 +8,5 @@ Modify a file:
 
 ```bash
 vim hello.txt
+# :wq
 ```
